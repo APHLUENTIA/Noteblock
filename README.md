@@ -29,12 +29,13 @@ Para os problemas de comunicação, existem ferramentas designadas como Ferramen
 - Aguardar envio de literatura por parte do professor a 03/10/2022.     
 
 ---
-### Termos  
+## Bibliografia  
+-  [Ambient Assisted Living (AAL) Programme](http://www.aal-europe.eu)
+
+
 - [^1]: Afasia
 : Perda parcial ou total da capacidade de expressar ou compreender a linguagem falada ou escrita. É o resultado de danos às áreas do cérebro que controlam a linguagem. As pessoas podem ter dificuldade em ler, escrever, falar, compreender ou repetir a linguagem.  [Afasia Por Juebin Huang , MD, PhD, Department of Neurology, University of Mississippi Medical Center](https://www.msdmanuals.com/pt/casa/distúrbios-cerebrais,-da-medula-espinal-e-dos-nervos/disfunção-cerebral/afasia)
 
 - [^2]: Comunicação Aumentativa e Alternativa
 : A comunicação alternativa contempla qualquer forma de comunicação que não seja a fala, enquanto que a comunicação aumentativa significa promover e apoiar a fala. [Comunicação Aumentativa e Alternativa](http://www.itad.pt/comunicacao-aumentativa-e-alternativa/)
 
-## Bibliografia  
--  [Ambient Assisted Living (AAL) Programme](http://www.aal-europe.eu)
