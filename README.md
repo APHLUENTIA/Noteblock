@@ -7,7 +7,7 @@ SUPPORTING TECHNOLOGY-MEDIATED COMMUNICATION FOR APHASIA*
 ---
 ## Primeira Reunião    
 *Data: 27/09/2022*     
-*Participantes: Pedro Marques, Prof Samuel Silva*  
+*Participantes: Pedro Marques, Prof Dr.Samuel Silva*  
 *Tópicos do Dia: Interação Multimodal, Estado de Arte no IEETA, Afasia [^1]*  
 
 Este trabalho relaciona-se com pesquisa em desenvolvimento no IEETA, no âmbito do programa APH-ALARM. Projeto internacional liderado por uma empresa húngara.    
@@ -28,6 +28,40 @@ Para os problemas de comunicação, existem ferramentas designadas como Ferramen
 - Muita informação partilhada de forma sigilosa.    
 - Aguardar envio de literatura por parte do professor a 03/10/2022.     
 
+
+## Tese da Cária Azevedo Sobre Afasia Fluente  
+*Data: 07/10/2022*     
+*Autora: Cátia Azevedo*  
+*Orientador: Prof Dr.Samuel Silva*  
+*Coorientador: Dr.Ana Rita Valente*  
+*Titulo: COMMUNICATION SUPPORT FORFLUENT APHASIA*  
+*Tópicos do Dia: Projeto APH-ALARM, Afasia [^1]*  
+
+Em relação ao que foi desenvolvido, a aplicação móvel é justificada de modo a combater o estigma associado de andar com um assistente pessoal para todo o lado juntamente com o facto de um smartphone ser super portável.    
+Neste projeto foi so abordada a afasia fluente, que engloba 4 tipos diferentes: Conduction, Anomia, Wenicke's and Transcortical Sensory    
+O Desenvolvimento do projeto contou com terapeutas da fala e outros profissionais da área.    
+Foi realizada uma abordagem User Centered Design de modo a que a aplicação realmente consiga ser desenhada para as pessoas que dela precisam   
+O levantamento de requisitos ocorreu após o desenvolvimento de personas e scenarios, tendo sido organizador por prioridade. Prioridade 1 é relativo às funcionalidades essenciais da aplicação, 2 as funcionalidades complementares e 3 UI/estética/beleza   
+**Relembrar** A Aplicação não é so para as pessoas com afasia, mas também para outros que têm contacto direto com os mesmos  
+
+
+**Notas**: 
+- Literatura recebida por parte do professor não pode ser partilhada ainda, nomeadamente a tese em questão e um documento explicativo do projeto APH-Alarm   
+
+**Notas Mencionadas à Cátia**: 
+- Validar todas as assunções   
+- Fazer itemização em alguns momentos    
+- Falar da motivação pessoal para além da do projeto    
+- Apresentar cada secção antes de apresentar o seu conteúdo (p.e. Explicar o que são cenários antes de os apresentar)    
+- Apresentar a avaliação de resultados  apresentar   
+- Cuidado com palavras com capitalização desnecessária e acrónimos inconsistentes.   
+- Mencionar credenciais e participantes (formação profissional) das pessoas que afetam decisões no desenvolvimento  
+
+**ALgumas perguntas que foram feitas**:  
+- Por que é que é necessária uma aplicação móvel para a afasia e especificamente a afasia fluente?
+- Porquê estes tipos de afasia?  
+- Escalabilidade e Futuro das Tecnologias  
+- Problemas de privacidade RGPD
 ---
 ## Bibliografia  
 -  [Ambient Assisted Living (AAL) Programme](http://www.aal-europe.eu)
