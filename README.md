@@ -63,6 +63,42 @@ O levantamento de requisitos ocorreu após o desenvolvimento de personas e scena
 - Escalabilidade e Futuro das Tecnologias  
 - Problemas de privacidade RGPD
 ---
+
+## Segunda Reunião    
+*Data: 12/10/2022*     
+*Participantes: Pedro Marques, Prof Dr.Samuel Silva, Dra Ana Rita Valente*  
+*Tópicos do Dia: Próximos Passos, Estado de Arte, Ideias, Aphasia Friendly*  
+
+Esta reunião teve o objetivo de permitir a minha integração de forma mais extensiva no projeto.    
+
+Atualmente, no âmbito do projeto, duas vertentes foram englobadas com o objetivo de ajudar pessoas com afasia fluente. Assim sendo, foi desenvolvida uma aplicação móvel para suporte das mesmas bem como um assistente para o quarto que, graças à deteção de movimentos por uma wristband, permite a comunicação entre (Patient With Aphasia) PWA e caregiver (pessoa que toma conta do paciente ou tem contacto direto com o mesmo).   
+Atualmente, estas soluções existem de forma independente, a ideia geral é criar uma espécie de dashboard que permita a integração destes projetos bem como de futuros. Igualmente, pretende-se permitir costumização de ambos os projetos, de forma a que os mesmos se adaptem melhor aos PWA.
+
+**Ideias de Personalização:**  
+- Possibilidade de atribuição de exercícios por parte do SLT (terapueta da fala) para o PWA  
+- A gravação da voz do paciente permite aumentar a motivação e confiança do mesmo, pois este verifica que realmente está a melhorar.  
+- Personalização de output providenciados  
+- Possibilidade de criar perfis de contexto (supermercado, consulta, etc)  ou utilizar perfis base  
+- Outras ideias como frases personalizáveis    
+- Monitorização de utilização da aplicação
+
+
+Para além do que foi mencionado anteriormente, mencionou-se também a oportunidade de poder usar a voz. Como foi mencionado na reunião, a voz é uma ótima forma dos terapuetas verificarem o estado dos pacientes. Assim sendo, seria interessante o desenvolvimento de uma solução que englobasse a mesma. Aqui temos um problema relacionado com a proteção de dados (RGPD).
+
+Tudo o que foi mencionado anteriormente tem como objetivo também a monitorização do paciente, pois é importante para o terapueta saber que os mesmos estão a praticar e a fazê-lo corretamente.   
+Esta personalização é também importante para ajudar pacientes que não tenham o mesmo conforto em casa comparativamente com uma consulta. Este conforto é importante para obter dados mais naturais e, portanto, mais importantes. 
+
+**Nota:**  
+- Reunião a ser marcada com o fábio para conhecer melhor a solução do quarto  
+- Tese da Cátia tem uma secção ótima de compreensão e explicação da afasia  
+
+**Próximos Passos**:  
+- Ler artigos sobre afasia e aplicações 'Aphasia Friendly', (dica: usar one note para associar artigos e certas secções de especial interesse)   
+- Analisar gestores de referências 
+- Pintar um quadro do que existe: cenários, personas, requisitos etc  
+
+
+
 ## Bibliografia  
 -  [Ambient Assisted Living (AAL) Programme](http://www.aal-europe.eu)
 
