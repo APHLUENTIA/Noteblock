@@ -98,6 +98,9 @@ Esta personalização é também importante para ajudar pacientes que não tenha
 - Pintar um quadro do que existe: cenários, personas, requisitos etc  
 
 
+**Links**  
+OneNone: https://1drv.ms/u/s!AnPx1OBRN7TPj5R3pz1PRNyxGaVFWQ?e=n2nJvS 
+
 
 ## Bibliografia  
 -  [Ambient Assisted Living (AAL) Programme](http://www.aal-europe.eu)
