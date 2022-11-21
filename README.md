@@ -98,8 +98,32 @@ Esta personalização é também importante para ajudar pacientes que não tenha
 - Pintar um quadro do que existe: cenários, personas, requisitos etc  
 
 
-**Links**  
-OneNone: https://1drv.ms/u/s!AnPx1OBRN7TPj5R3pz1PRNyxGaVFWQ?e=n2nJvS 
+## Terceira Reunião    
+*Data: 15/11/2022*     
+*Participantes: Pedro Marques, Prof Dr.Samuel Silva, Fábio Nunes, Ana Rocha*  
+*Tópicos do Dia: Levantamento de requisitos, What a Nice Gesture, Planeamento da Tese, Objetivo do Projeto*  
+
+O ojetivo desta reunião foi a contextualização com o projeto de assistente de quarto que foi terminada, bem como a discussão de ideias para o projeto em desenvolvimento.    
+
+Algumas das ideias apresentadas distanciam-se um bocado da ideia inicial do projeto, no sentido em que se relacionam mais com eTerapia do que com assistência de comunicação.  
+
+**Ideias para a aplicação:**  
+- Criação de um meio de comunicação entre o SLT [^3]* e o caregiver  
+- Possibilidade de atribuição de homework para os PWAs através da plataforma   
+- Utilização de QR Code para adicionar aplicações à plataforma  
+- Avaliar a progressão da condição através de interações com os sistemas  
+- Avaliação do estado emocional através da voz  
+
+Um dos problemas com ambas as aplicações é que não existe qualquer forma de gestão de utilizadores. Para além disso, enquanto que os dados da app móvel estão hardcoded numa base de dados, a do assistente de quarto tem os dados hardcoded no meio do código. É necessário determinar um método que permita uma comunicação semelhante entre os dois métodos.  
+
+
+**Notas:**  
+- Reunião terça daqui a 2 semanas  
+- Posso reutilizar personas da Cátia, tenho +2 personas: SLT e caregiver  
+- Ler artigo Harnessing the Role of Speech Interaction inSmart Environments towards ImprovedAdaptability and Health Monitoring    
+
+**Próximos Passos**:   
+- Escrever personas e cenários para determinar requisitos    
 
 
 ## Bibliografia  
@@ -112,3 +136,5 @@ OneNone: https://1drv.ms/u/s!AnPx1OBRN7TPj5R3pz1PRNyxGaVFWQ?e=n2nJvS
 - [^2]: Comunicação Aumentativa e Alternativa
 : A comunicação alternativa contempla qualquer forma de comunicação que não seja a fala, enquanto que a comunicação aumentativa significa promover e apoiar a fala. [Comunicação Aumentativa e Alternativa](http://www.itad.pt/comunicacao-aumentativa-e-alternativa/)
 
+- [^3]: Speech and Language Therapist (SLT)
+: Terapeuta que ajuda na reabilitação do paciente com afasia
