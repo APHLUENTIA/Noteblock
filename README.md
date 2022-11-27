@@ -126,6 +126,15 @@ Um dos problemas com ambas as aplicações é que não existe qualquer forma de 
 - Escrever personas e cenários para determinar requisitos    
 
 
+## Semana    
+*Data: 18/11/2022 - 25/11/2022*     
+- Elaboração das personas  
+- Elaboração de cenários   
+- Levantamento de requisitos  
+- Harnessing the Role of Speech Interaction inSmart Environments towards Improved Adaptability and Health Monitoring
+
+
+
 ## Bibliografia  
 -  [Ambient Assisted Living (AAL) Programme](http://www.aal-europe.eu)
 
