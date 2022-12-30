@@ -154,7 +154,7 @@ Um dos problemas com ambas as aplicações é que não existe qualquer forma de 
  
 ## Semana    
 *Data: 23/12/2022 - 30/12/2022*     
-- Leitura e escrita da tese secções Communication Disorders, Aphasia and Boston Classification, Emotional Health in Patients With Aphasia, Augmentative and Alternative Communication, AAC for Aphasia  
+- Leitura e escrita da tese secções Communication Disorders, Aphasia and Boston Classification, Emotional Health in Patients With Aphasia
 - Criação de um primeiro low fidelity prototype    
 
 ## Bibliografia  
