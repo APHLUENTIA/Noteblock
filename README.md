@@ -120,7 +120,7 @@ Um dos problemas com ambas as aplicações é que não existe qualquer forma de 
 **Notas:**  
 - Reunião terça daqui a 2 semanas  
 - Posso reutilizar personas da Cátia, tenho +2 personas: SLT e caregiver  
-- Ler artigo Harnessing the Role of Speech Interaction inSmart Environments towards ImprovedAdaptability and Health Monitoring    
+- Ler artigo Harnessing the Role of Speech Interaction inSmart Environments towards Improved Adaptability and Health Monitoring    
 
 **Próximos Passos**:   
 - Escrever personas e cenários para determinar requisitos    
@@ -130,10 +130,32 @@ Um dos problemas com ambas as aplicações é que não existe qualquer forma de 
 *Data: 18/11/2022 - 25/11/2022*     
 - Elaboração das personas  
 - Elaboração de cenários   
-- Levantamento de requisitos  
-- Harnessing the Role of Speech Interaction inSmart Environments towards Improved Adaptability and Health Monitoring
+- Levantamento de requisitos    
+- Harnessing the Role of Speech Interaction inSmart Environments towards Improved Adaptability and Health Monitoring  
+
+## Semana    
+*Data: 27/11/2022 - 02/12/2022*     
+- Leituras sobre Smart Homes e Health Monitoring Solutions Para Pacientes Com Afasia (Remote vs Presential)  
+- Restruturação da organização da tese  
+- Restruturação das secções de contexto, motivacao e objetivos  
 
 
+## Semana    
+*Data: 02/12/2022 - 09/12/2022*     
+- Organização de notas e leitura de outros artigos relativos à afasia/escrita de background da tese  
+- State of The Art   
+- Projetos de Outras Cadeiras   
+
+## Semana    
+*Data: 09/12/2022 - 16/12/2022*     
+- Deteção de biomarcadores especificamente aplicados à afasia  
+- State of The Art  
+- Projetos de Outras Cadeiras  
+ 
+## Semana    
+*Data: 23/12/2022 - 30/12/2022*     
+- Leitura e escrita da tese secções Communication Disorders, Aphasia and Boston Classification, Emotional Health in Patients With Aphasia, Augmentative and Alternative Communication, AAC for Aphasia  
+- Criação de um primeiro low fidelity prototype    
 
 ## Bibliografia  
 -  [Ambient Assisted Living (AAL) Programme](http://www.aal-europe.eu)
