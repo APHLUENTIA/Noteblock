@@ -157,6 +157,27 @@ Um dos problemas com ambas as aplicações é que não existe qualquer forma de 
 - Leitura e escrita da tese secções Communication Disorders, Aphasia and Boston Classification, Emotional Health in Patients With Aphasia
 - Criação de um primeiro low fidelity prototype    
 
+
+## Quarta Reunião    
+*Data: 04/01/2023*     
+*Participantes: Pedro Marques, Prof Dr.Samuel Silva, Ana Rocha*  
+*Tópicos do Dia: Low Fidelity Prototype, Estrutura da Tese, Estado das Secções Escritas*  
+
+O ojetivo desta reunião foi a conversação sobre o estado das diferentes secções da tese. A ideia foi averiguar como a escrita da mesma estava a progredir e corrigir eventuais problemas ou falta de informação.    
+
+Um dos principais problemas foi a ideia de que a plataforma iria ser utilizada por pacientes com afasia. Isto implicaria o desenho da aplicação para individuos com estas necessidades, o que complicaria o projeto e não é necessário. Ao invés, os PWA limitam-se a utilizar as duas plataformas já existentes e desenhadas para os mesmos.  
+
+**Notas:**  
+- Speech Biomarkers não é um bom nome para a secção, visto que serão abordados parâmetros da voz e não a deteção automática de patologias 
+- Fala-se muito na tese sobre as necessidades dos pacientes mas devia haver mais foco na dos SLT e caregivers 
+- Integrar related work e state of the art nas diferentes secções, em vez de criar uma secção unica
+- Nao referir o RGPD como regras que impossibilitam trabalho mas como guiadores do mesmo
+
+**Próximos Passos**:   
+- Correção da tese
+- Restruturação do LFP  
+
+
 ## Bibliografia  
 -  [Ambient Assisted Living (AAL) Programme](http://www.aal-europe.eu)
 
