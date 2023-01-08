@@ -177,6 +177,12 @@ Um dos principais problemas foi a ideia de que a plataforma iria ser utilizada p
 - Correção da tese
 - Restruturação do LFP  
 
+## Semana    
+*Data: 01/01/2023 - 08/01/2023*     
+- Leitura  de artigos e escrita da tese secções Difficulties in Patients with Aphasia, Augmentative and Alternative Communication, AAC for Aphasia and Related Work, Speech Analysis
+- Restruturação do LFP, removida secção do PWA
+
+
 
 ## Bibliografia  
 -  [Ambient Assisted Living (AAL) Programme](http://www.aal-europe.eu)
